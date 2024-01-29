@@ -23,7 +23,7 @@ This repository contains two Python scripts for face recognition and emotion rec
 4. Run the script:
 
     ```bash
-    python FaceRecognition.py
+    python face_recognition.py
     ```
 
 5. The script will capture video from the webcam and recognize known faces.
@@ -47,7 +47,7 @@ This repository contains two Python scripts for face recognition and emotion rec
 4. Run the script:
 
     ```bash
-    python EmotionRecognition.py
+    python emotion_recognition.py
     ```
 
 5. The script will capture video from the webcam, detect faces, and display the dominant emotion on each face.
